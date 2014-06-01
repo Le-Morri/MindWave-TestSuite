@@ -1,0 +1,9 @@
+{
+    "ThinkGear.Host": "127.0.0.1",
+    "ThinkGear.Port": 13854,
+    "Test.Duration": 5000,
+    "Test.PauseDuration": 2000,
+	"Graph.Margin": 40,
+	"Graph.Height": 400,
+	"Graph.Scale": 10
+}

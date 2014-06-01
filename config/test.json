@@ -1,0 +1,57 @@
+[
+    {
+        "type" : "test",
+        "label" : "test_think_left",
+        "image": ""
+    },
+    {
+        "type" : "showText",
+        "label" : "test_end"
+    },
+    {
+        "type" : "test",
+        "label" : "test_say_left",
+        "image": ""
+    },
+    {
+        "type" : "showText",
+        "label" : "test_end"
+    },
+    {
+        "type" : "test",
+        "label" : "test_think_left_arrow",
+        "image": "assets/arrow_left.png"
+    },
+    {
+        "type" : "showText",
+        "label" : "section_end"
+    },
+    {
+        "type" : "test",
+        "label" : "test_think_right",
+        "image": ""
+    },
+    {
+        "type" : "showText",
+        "label" : "test_end"
+    },
+    {
+        "type" : "test",
+        "label" : "test_say_right",
+        "image": ""
+    },
+    {
+        "type" : "showText",
+        "label" : "test_end"
+    },
+    {
+        "type" : "test",
+        "label" : "test_think_right_arrow",
+        "image": "assets/arrow_right.png"
+    },
+    {
+        "type": "showText",
+        "label": "test_finished"
+    }
+    
+]

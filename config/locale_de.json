@@ -1,0 +1,18 @@
+{
+    "waiting": "Warten auf Verbindung, bzw. Signalqualität",
+    "intro": "Sie bekommen gleich Aufgaben an etwas zu denken, zu sagen oder etwas zu visualisieren.\n Bitte kommen Sie diesen Aufgaben schnellstmöglich nach",
+    "test_think_left": "Bitte denken Sie an das Wort \"Links\"",
+    "test_say_left": "Bitte sagen Sie das Wort \"Links\" wiederholt.",
+    "test_think_left_arrow": "Bitte visualisieren Sie einen Links-Pfeil",
+    "test_think_right": "Bitte denken Sie an das Wort \"Rechts\"",
+    "test_say_right": "Bitte sagen Sie das Wort \"Rechts\" wiederholt.",
+    "test_think_right_arrow": "Bitte visualisieren Sie einen Rechts-Pfeil",
+    "test_end": "Dieser Test ist beendet. In Kürze wird der Nächste starten",
+    "section_end": "Dieser Test-Abschnitt ist beendet. In Kürze wird der Nächste starten",
+    "test_finished": "Sie haben den gesamten Test beendet. Vielen Dank",
+    "label_start_button": "Test starten",
+    "test_window_title": "MindWave TestSuite",
+    "question_name_title": "Ihr Name?",
+    "question_name_bttn": "Ok",
+    "question_name_question": "Wie lautet Ihr Name:"
+}
